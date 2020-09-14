@@ -10,7 +10,7 @@ The program is command-line utility that support for rclone. This utility makes 
 ## Quickstart
 Run command:
 ```
-python3 gdriveshare_cli.py -c <path to rclone config file> <COMMAND> <remote:path>
+python3 gdriveshare_cli.py <COMMAND> <remote:path> -c <path to rclone config file> 
 ```
 With command:
 - **share**
